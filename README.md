@@ -8,9 +8,8 @@ For now the app displays a homescreen that has a login and registration button. 
 
 To use the app you must have an IOS phone and download the Expo Go app (or you can use the simulator from xcode). In the terminal enter npm start and once it's start press i to start the app on the phone. From the phone you should see the app start up.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Qm9xvr_KZuY)
+(The app had some trouble loading so if you would like to skip 3:32-4:18 you will get through demo much faster.)
 
 # Development Environment
 
